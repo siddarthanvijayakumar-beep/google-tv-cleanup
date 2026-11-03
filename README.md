@@ -2,6 +2,10 @@
 
 Ad-free home screen and debloat for Google TV / Android TV sets over ADB, no root. Built and tested on a TCL G10 (Android TV 12) in November 2026.
 
+![Home screen: clock, Inputs / Picture & Sound / Wi-Fi / Settings pills, weather, app dock and Inputs row](docs/home-screen.png)
+
+*The home screen on the TCL. Wi-Fi name and city blurred.*
+
 Based on [CleanTV](https://github.com/JohnWayneeee/cleantv) by JohnWayneeee (MIT, see `LICENSE` and `NOTICE`), with these additions:
 
 - English labels
