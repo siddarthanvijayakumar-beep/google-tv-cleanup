@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clean TV</string>
+    <string name="inputs">Inputs</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="ethernet">Ethernet</string>
+    <string name="offline">Not connected</string>
+    <string name="live_tv">Live TV</string>
+    <string name="av">AV</string>
+    <string name="move">Move</string>
+    <string name="add_to_dock">Add to dock</string>
+    <string name="remove_from_dock">Remove from dock</string>
+    <string name="move_hint">Use the arrows to move it, then press OK</string>
+    <string name="dock_full">The dock is full. Remove an app from the dock first.</string>
+    <string name="connected">Connected</string>
+    <string name="settings_key_label">Clean TV: remote Settings button</string>
+    <string name="settings_key_desc">Opens Settings when you press the Settings button on the remote. Reads only that button.</string>
+    <string name="picture_sound">Picture &amp; Sound</string>
+    <string name="picture">Picture</string>
+    <string name="sound">Sound</string>
+    <string name="airplay">AirPlay</string>
+    <string name="weather_info">H %1$d° · L %2$d° · %3$s</string>
+    <string name="no_device">No device</string>
+    <string name="all_apps">All apps</string>
+    <string name="good_morning">Good morning</string>
+    <string name="good_day">Good afternoon</string>
+    <string name="good_evening">Good evening</string>
+    <string name="good_night">Good night</string>
+</resources>

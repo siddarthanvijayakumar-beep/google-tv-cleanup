@@ -1,0 +1,14 @@
+# Build output and local machine settings
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# Per-TV private bits: address and weather location
+.tv
+weather.properties
+
+# Personal build of the launcher (the published one lives in release/)
+tvs/*/clean-tv-launcher.apk
